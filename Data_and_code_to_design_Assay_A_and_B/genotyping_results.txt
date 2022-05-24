@@ -1,0 +1,135 @@
+name	begin	length	end	BLAST	BLAST score	refseq	reverse complement	polymerase type	polymerase type support	polymerase subtype	polymerase subtype support	capsid type	capsid type support	capsid subtype	capsid subtype support
+L07418.1	0	7708	7702	Caliciviridae Norovirus GI	74.123566	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+FJ515294.1	0	7699	7693	Caliciviridae Norovirus GI	73.82487	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+JQ388274.1	0	7691	7682	Caliciviridae Norovirus GI	73.75196	NC_001959	false	GI.P11 (GI.Pb)	72.0			GI.6	100.0		
+JQ911594.1	-27	7696	7657	Caliciviridae Norovirus GI	70.85704	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	100.0		
+JX023285.1	0	7633	7633	Caliciviridae Norovirus GI	99.9869	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039725.1	4	7600	7604	Caliciviridae Norovirus GI	99.98684	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039726.1	4	7600	7604	Caliciviridae Norovirus GI	99.90789	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039727.1	4	7600	7604	Caliciviridae Norovirus GI	99.90789	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039728.1	4	7600	7604	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039729.1	4	7600	7604	Caliciviridae Norovirus GI	99.98684	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039730.1	4	7600	7604	Caliciviridae Norovirus GI	99.88158	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039731.1	4	7600	7604	Caliciviridae Norovirus GI	99.97369	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039732.1	4	7600	7604	Caliciviridae Norovirus GI	99.89474	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039733.1	4	7600	7604	Caliciviridae Norovirus GI	99.86842	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039734.1	4	7600	7604	Caliciviridae Norovirus GI	99.97369	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039735.1	4	7600	7604	Caliciviridae Norovirus GI	99.97369	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039736.1	4	7600	7604	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF039737.1	4	7600	7604	Caliciviridae Norovirus GI	99.89474	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF429761.1	3	7623	7626	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF429765.1	4	7617	7621	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF429770.1	0	7626	7626	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF429773.1	0	7626	7626	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF429774.1	3	7623	7626	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF429783.1	3	7617	7620	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF429789.1	3	7623	7626	Caliciviridae Norovirus GI	100.0	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+KF306212.1	0	7740	7734	Caliciviridae Norovirus GI	74.24934	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+KF586507.1	-18	7706	7673	Caliciviridae Norovirus GI	71.264175	NC_001959	false	GI.P9	100.0			GI.9	100.0		
+KJ194510.1	-21	7605	7560	Caliciviridae Norovirus GI	71.94075	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+KJ196292.1	-21	7745	7712	Caliciviridae Norovirus GI	70.84054	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+KJ196298.1	-21	7745	7712	Caliciviridae Norovirus GI	71.32505	NC_001959	false	GI.P8	100.0			GI.8	100.0		
+LN854563.1	6	7697	7700	Caliciviridae Norovirus GI	73.55762	NC_001959	false	GI.P4	100.0			GI.4	100.0		
+LN854564.1	0	7691	7682	Caliciviridae Norovirus GI	73.642075	NC_001959	false	GI.P11 (GI.Pb)	82.0			GI.6	100.0		
+KP407450.1	-21	7740	7707	Caliciviridae Norovirus GI	71.31275	NC_001959	false	GI.P8	100.0			GI.8	100.0		
+KP407451.1	0	7691	7682	Caliciviridae Norovirus GI	73.51139	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+KU311161.1	-7	7657	7626	Caliciviridae Norovirus GI	71.5136	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+KX907729.1	-18	7648	7609	Caliciviridae Norovirus GI	71.14436	NC_001959	false	GI.P7	91.0			GI.7	100.0		
+KX907730.1	-17	7647	7606	Caliciviridae Norovirus GI	71.41156	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+KX907731.1	-18	7681	7648	Caliciviridae Norovirus GI	71.367226	NC_001959	false	GI.P9	100.0			GI.9	100.0		
+KY934262.1	-21	7778	7745	Caliciviridae Norovirus GI	71.151855	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MG049693.1	10	7602	7609	Caliciviridae Norovirus GI	73.053795	NC_001959	false	GI.P4	100.0			GI.4	100.0		
+MG557648.1	250	7341	7579	Caliciviridae Norovirus GI	64.99738	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MG557649.1	361	6427	6764	Caliciviridae Norovirus GI	48.937256	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MG557650.1	52	7425	7465	Caliciviridae Norovirus GI	71.6242	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MG557651.1	-27	7351	7300	Caliciviridae Norovirus GI	68.78082	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MG557652.1	409	7107	7501	Caliciviridae Norovirus GI	46.535156	NC_001959	false	GI.P6	100.0			GI.6	100.0		
+MG599789.1	62	7542	7598	Caliciviridae Norovirus GI	74.202255	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+MH130046.1	-21	7734	7701	Caliciviridae Norovirus GI	70.740166	NC_001959	false	GI.PNA2	100.0			GI.7	100.0		
+MH218647.1	-21	7745	7712	Caliciviridae Norovirus GI	71.09997	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218649.1	0	7713	7707	Caliciviridae Norovirus GI	74.20217	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+MH218656.1	0	7740	7734	Caliciviridae Norovirus GI	74.327934	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+MH218659.1	-21	7745	7712	Caliciviridae Norovirus GI	71.22103	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218664.1	-21	7745	7712	Caliciviridae Norovirus GI	71.16914	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218720.1	0	7710	7704	Caliciviridae Norovirus GI	74.390816	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+MH218721.1	-21	7704	7659	Caliciviridae Norovirus GI	70.70792	NC_001959	false	GI.P13 (GI.Pd)	100.0			Could not assign			
+MH218722.1	-21	7745	7712	Caliciviridae Norovirus GI	71.255615	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218723.1	-21	7778	7733	Caliciviridae Norovirus GI	70.7173	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	79.0		
+MH218724.1	-21	7745	7712	Caliciviridae Norovirus GI	71.27292	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218725.1	-21	7745	7712	Caliciviridae Norovirus GI	71.151855	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218726.1	-21	7745	7712	Caliciviridae Norovirus GI	71.203735	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218727.1	-21	7745	7712	Caliciviridae Norovirus GI	71.203735	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218728.1	-21	7732	7699	Caliciviridae Norovirus GI	71.151855	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218729.1	-21	7745	7712	Caliciviridae Norovirus GI	71.203735	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH218730.1	-21	7737	7704	Caliciviridae Norovirus GI	70.77821	NC_001959	false	GI.P14 (GI.Pf)	100.0			GI.3	100.0		
+MH443711.1	179	7508	7678	Caliciviridae Norovirus GI	72.36671	NC_001959	false	GI.P12 (GI.Pc)	100.0			GI.5	100.0		
+MH608286.1	-21	7740	7707	Caliciviridae Norovirus GI	71.41128	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MH702262.1	325	6988	7298	Caliciviridae Norovirus GI	71.435936	NC_001959	false	GI.P9	100.0			GI.9	100.0		
+MH638228.1	10	7598	7608	Caliciviridae Norovirus GI	84.8776	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MH638229.1	18	7591	7609	Caliciviridae Norovirus GI	84.861664	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+NC_039897.1	-21	7745	7712	Caliciviridae Norovirus GI	70.84054	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MK073887.1	-21	7691	7646	Caliciviridae Norovirus GI	70.7173	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	94.0		
+MK073892.1	-23	7692	7645	Caliciviridae Norovirus GI	70.75105	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	96.0		
+MK073893.1	-14	7678	7640	Caliciviridae Norovirus GI	70.75105	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	96.0		
+MK236608.1	47	7607	7645	Caliciviridae Norovirus GI	73.73593	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+MK236609.1	12	7674	7677	Caliciviridae Norovirus GI	73.63951	NC_001959	false	GI.P11 (GI.Pb)	99.0			GI.6	100.0		
+MK236610.1	20	7674	7685	Caliciviridae Norovirus GI	73.62205	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+MK236611.1	12	7684	7687	Caliciviridae Norovirus GI	73.63951	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+LC342057.1	16	7677	7681	Caliciviridae Norovirus GI	72.554436	NC_001959	false	GI.PNA4 (GI.Pg)	100.0			GI.6	100.0		
+LC342058.1	16	7685	7689	Caliciviridae Norovirus GI	72.45694	NC_001959	false	GI.PNA4 (GI.Pg)	100.0			GI.6	100.0		
+MK762573.1	178	7483	7649	Caliciviridae Norovirus GI	70.92823	NC_001959	false	GI.P8	100.0			GI.8	100.0		
+MK789654.1	27	7648	7663	Caliciviridae Norovirus GI	71.18644	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MK789655.1	21	7679	7694	Caliciviridae Norovirus GI	73.97347	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+MK789656.1	51	7641	7683	Caliciviridae Norovirus GI	73.815186	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+MK956173.1	361	7134	7501	Caliciviridae Norovirus GI	81.54061	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MK956174.1	255	7173	7428	Caliciviridae Norovirus GI	84.90172	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MK956175.1	86	7363	7449	Caliciviridae Norovirus GI	84.7209	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MK956177.1	75	7534	7606	Caliciviridae Norovirus GI	73.36259	NC_001959	false	GI.P4	100.0			GI.4	100.0		
+MK956178.1	247	7433	7677	Caliciviridae Norovirus GI	74.90557	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+MN226991.1	1	7633	7625	Caliciviridae Norovirus GI	73.449524	NC_001959	false	GI.P11 (GI.Pb)	79.0			GI.6	100.0		
+MN416764.1	306	7362	7665	Caliciviridae Norovirus GI	75.01653	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+MN448477.1	-21	7738	7705	Caliciviridae Norovirus GI	71.22103	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+NC_044853.1	16	7677	7681	Caliciviridae Norovirus GI	72.554436	NC_001959	false	GI.PNA4 (GI.Pg)	100.0			GI.6	100.0		
+NC_044854.1	0	7693	7684	Caliciviridae Norovirus GI	74.04149	NC_001959	false	GI.PNA1 (GI.Pb)	100.0			GI.6	100.0		
+NC_044856.1	-21	7734	7701	Caliciviridae Norovirus GI	70.740166	NC_001959	false	GI.PNA2	100.0			GI.7	100.0		
+MN938460.1	10	7602	7609	Caliciviridae Norovirus GI	73.102554	NC_001959	false	GI.P4	100.0			GI.4	100.0		
+MN938461.1	10	7602	7609	Caliciviridae Norovirus GI	73.167564	NC_001959	false	GI.P4	100.0			GI.4	100.0		
+MT008453.1	157	7454	7611	Caliciviridae Norovirus GI	84.93224	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MT008454.1	154	7492	7640	Caliciviridae Norovirus GI	72.23386	NC_001959	false	GI.P12 (GI.Pc)	100.0			GI.5	100.0		
+MT008455.1	67	7605	7660	Caliciviridae Norovirus GI	70.87798	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	83.0		
+MT008456.1	67	7581	7636	Caliciviridae Norovirus GI	70.8398	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	100.0		
+MT008457.1	73	7573	7634	Caliciviridae Norovirus GI	71.1978	NC_001959	false	GI.P10 (GI.Pa)	100.0			GI.3	100.0		
+MT008458.1	8	7613	7618	Caliciviridae Norovirus GI	72.2973	NC_001959	false	GI.P12 (GI.Pc)	100.0			GI.5	100.0		
+MT008459.1	-8	7660	7631	Caliciviridae Norovirus GI	71.16136	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MT008460.1	157	7467	7618	Caliciviridae Norovirus GI	72.23386	NC_001959	false	GI.P12 (GI.Pc)	100.0			GI.5	100.0		
+MT031988.1	-21	7776	7743	Caliciviridae Norovirus GI	71.525246	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MT089578.1	-10	7704	7682	Caliciviridae Norovirus GI	71.51997	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MT089579.1	-21	7762	7729	Caliciviridae Norovirus GI	71.51997	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MT089580.1	-11	7735	7712	Caliciviridae Norovirus GI	71.51997	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MT357899.1	-14	7664	7626	Caliciviridae Norovirus GI	71.22938	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MT357897.1	-5	7658	7629	Caliciviridae Norovirus GI	71.24638	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MT357898.1	-14	7732	7694	Caliciviridae Norovirus GI	71.24638	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MT357991.1	0	7654	7654	Caliciviridae Norovirus GI	84.766136	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MT357992.1	0	7654	7654	Caliciviridae Norovirus GI	84.779205	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MT357993.1	0	7654	7654	Caliciviridae Norovirus GI	84.766136	NC_001959	false	GI.P1	100.0			GI.1	100.0		
+MT357994.1	-18	7651	7609	Caliciviridae Norovirus GI	71.22938	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MT357995.1	0	7696	7687	Caliciviridae Norovirus GI	73.85292	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+MT357996.1	0	7696	7687	Caliciviridae Norovirus GI	73.79906	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+MT372462.1	-18	7777	7735	Caliciviridae Norovirus GI	71.2974	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MT372463.1	-21	7764	7719	Caliciviridae Norovirus GI	70.78217	NC_001959	false	GI.P3	99.0			GI.3	100.0		
+MT372464.1	0	7708	7702	Caliciviridae Norovirus GI	73.730545	NC_001959	false	GI.P2	100.0			GI.2	100.0		
+MT372465.1	0	7708	7702	Caliciviridae Norovirus GI	73.6205	NC_001959	false	GI.P2	98.0			GI.2	100.0		
+MT372466.1	-27	7773	7722	Caliciviridae Norovirus GI	70.51477	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	92.0		
+MT372467.1	-27	7773	7722	Caliciviridae Norovirus GI	70.53165	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	98.0		
+MT372468.1	-21	7763	7730	Caliciviridae Norovirus GI	70.88347	NC_001959	false	GI.P3	100.0			GI.3	100.0		
+MT372469.1	-18	7777	7747	Caliciviridae Norovirus GI	70.94665	NC_001959	false	GI.P7	100.0			GI.7	100.0		
+MT372470.1	-21	7763	7718	Caliciviridae Norovirus GI	70.681244	NC_001959	false	GI.P3	98.0			GI.3	100.0		
+MT372474.1	-18	7753	7720	Caliciviridae Norovirus GI	71.367226	NC_001959	false	GI.P9	100.0			GI.9	100.0		
+MT372475.1	-18	7700	7667	Caliciviridae Norovirus GI	71.40158	NC_001959	false	GI.P9	100.0			GI.9	100.0		
+MT372476.1	-21	7745	7712	Caliciviridae Norovirus GI	71.39406	NC_001959	false	GI.P8	100.0			GI.8	100.0		
+MT372477.1	0	7696	7687	Caliciviridae Norovirus GI	73.68917	NC_001959	false	GI.P11 (GI.Pb)	99.0			GI.6	100.0		
+MT451991.1	-4	7668	7640	Caliciviridae Norovirus GI	69.92405	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	97.0		
+MT526276.1	-17	7684	7643	Caliciviridae Norovirus GI	70.75105	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	90.0		
+MT526277.1	-16	7680	7640	Caliciviridae Norovirus GI	70.73418	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	92.0		
+MW243609.1	12	7684	7687	Caliciviridae Norovirus GI	73.74961	NC_001959	false	GI.P11 (GI.Pb)	100.0			GI.6	100.0		
+MW445537.1	-16	7684	7644	Caliciviridae Norovirus GI	70.76794	NC_001959	false	GI.P13 (GI.Pd)	100.0			GI.3	95.0		

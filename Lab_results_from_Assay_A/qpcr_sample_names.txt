@@ -1,0 +1,69 @@
+Sample Name	Gene Name
+S1         	Ny       
+S1         	Ny       
+S2         	Ny       
+S2         	Ny       
+S3         	Ny       
+S3         	Ny       
+S4         	Ny       
+S4         	Ny       
+S5         	Ny       
+S5         	Ny       
+S6         	Ny       
+S6         	Ny       
+S7         	Ny       
+S7         	Ny       
+S8         	Ny       
+S8         	Ny       
+S9         	Ny       
+S9         	Ny       
+S10        	Ny       
+S10        	Ny       
+NTC        	Ny       
+NTC        	Ny       
+EC         	Ny       
+EC         	Ny       
+Sample 25  	Ny       
+Sample 25  	Ny       
+Sample 27  	Ny       
+Sample 27  	Ny       
+Sample 29  	Ny       
+Sample 29  	Ny       
+Sample 31  	Ny       
+Sample 31  	Ny       
+Sample 33  	Ny       
+Sample 33  	Ny       
+S1         	ISO      
+S1         	ISO      
+S2         	ISO      
+S2         	ISO      
+S3         	ISO      
+S3         	ISO      
+S4         	ISO      
+S4         	ISO      
+S5         	ISO      
+S5         	ISO      
+S6         	ISO      
+S6         	ISO      
+S7         	ISO      
+S7         	ISO      
+S8         	ISO      
+S8         	ISO      
+S9         	ISO      
+S9         	ISO      
+S10        	ISO      
+S10        	ISO      
+NTC        	ISO      
+NTC        	ISO      
+EC         	ISO      
+EC         	ISO      
+Sample 25  	ISO      
+Sample 25  	ISO      
+Sample 27  	ISO      
+Sample 27  	ISO      
+Sample 29  	ISO      
+Sample 29  	ISO      
+Sample 31  	ISO      
+Sample 31  	ISO      
+Sample 33  	ISO      
+Sample 33  	ISO      
